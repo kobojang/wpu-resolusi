@@ -1,0 +1,11 @@
+Hallo Pak, nama saya Fajar Nugroho dari D.I.Yogyakarta
+
+Resolusi saya:
+- Membuat website original tanpa bantuan tutorial
+- Bekerja di suatu start-up
+- Memahami bahasa pemrograman seperti PHP dan Javascript
+- Memahami bahasa non-pemrograman HTML dan CSS
+- Memahami DBMS seperti MySQL, MongoDB, dan Oracle
+- Menguasai beberapa framework seperti : Codeigniter 4, Laravel, Bootstrap, Tailwind
+- Memahami JQuery, React JS, Node.js 
+- Memahami konsep API.
